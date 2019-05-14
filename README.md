@@ -72,13 +72,13 @@ If a key is not defined in a Twine file it will not create it.
 [[Login Errors]]
 	[Errors_Authentication_Expired]
 		en = Your credentials have expired. Please login again.
-    fr = Votre session a expiré. Veuillez vous réidentifier.
+    		fr = Votre session a expiré. Veuillez vous réidentifier.
 	[Errors_Authentication_Fail_Reason]
 		en = This Username / Password combination does not match our records.
-    fr = Cette combinaison nom d'utilisateur / mot de passe ne correspond pas à nos enregistrements.
+    		fr = Cette combinaison nom d'utilisateur / mot de passe ne correspond pas à nos enregistrements.
 	[Errors_Service_Unreachable_Reason]
 		en = Uh oh! Something went wrong! Try again later.
 		comment = Generic sentence to indicate something went wrong when our servers are unreachable. Don't translate "Uh oh!".
-    fr = Uh oh! Quelque chose s'est mal passé! Réessayez plus tard.
+    		fr = Uh oh! Quelque chose s'est mal passé! Réessayez plus tard.
 ~~~~
 
