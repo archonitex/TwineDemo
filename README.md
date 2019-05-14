@@ -27,7 +27,7 @@ For the purpose of this demo, the text files containing the string definitions i
 
 ## Scripts
 *Swift* scripts have been created to faciliate & automate Twine usage. The current demo setup allows for you to create multiple Twine files in the directory structure and in subdirectories.
-The *generate<Platform>.swift* scripts simply combine the Twine files appropriate for the platform into 1 temporarily to generate the localization file with Twine.
+The *generatePlatform.swift* scripts simply combine the Twine files appropriate for the platform into 1 temporarily to generate the localization file with Twine.
 
 ### Generating Localization
 Running the generate scripts will create the appropriate folder structure and files per language in the Resources folder.
