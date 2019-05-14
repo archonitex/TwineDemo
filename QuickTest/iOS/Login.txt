@@ -1,0 +1,9 @@
+[[Login UI]]
+	[iOS_LoginButton]
+		en = Log In
+	[iOS_ForgotPasswordButton]
+		en = Forgot Password?
+	[iOS_UsernameTextField_Placeholder]
+		en = Username
+	[iOS_PasswordTextField_Placeholder]
+		en = Password

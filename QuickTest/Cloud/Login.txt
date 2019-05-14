@@ -1,0 +1,8 @@
+[[Login Errors]]
+	[Errors_Authentication_Expired]
+		en = Your credentials have expired. Please login again.
+	[Errors_Authentication_Fail_Reason]
+		en = This Username / Password combination does not match our records.
+	[Errors_Service_Unreachable_Reason]
+		en = Uh oh! Something went wrong! Try again later.
+		comment = Generic sentence to indicate something went wrong when our servers are unreachable. Don't translate "Uh oh!".

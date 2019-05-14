@@ -1,0 +1,9 @@
+[[Login UI]]
+	[Portal_LoginButton]
+		en = Log In
+	[Portal_ForgotPasswordButton]
+		en = Forgot Password?
+	[Portal_UsernameTextField_Placeholder]
+		en = Username
+	[Portal_PasswordTextField_Placeholder]
+		en = Password
