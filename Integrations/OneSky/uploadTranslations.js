@@ -1,4 +1,4 @@
-var onesky = require('@brainly/onesky-utils'),
+var onesky = require('@senatorsfc/onesky-utils'),
 fs = require('fs'),
 path = require("path");
 
