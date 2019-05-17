@@ -1,0 +1,16 @@
+{
+  "name": "OneSky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadTranslations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@senatorsfc/onesky-utils": "github:senatorsfc/nodejs-onesky-utils",
+    "minimist": "^1.2.0"
+  }
+}
